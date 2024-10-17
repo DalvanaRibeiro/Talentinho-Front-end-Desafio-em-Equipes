@@ -59,6 +59,17 @@ Um formulário para o usuário deixar um feedback, um botão de "curtir" e a exi
 ### 🎯 Objetivo
 Esse projeto visa compreender como construir uma aplicação simples que explora conceitos fundamentais de front-end, como estruturação HTML, estilização com CSS, e manipulação de DOM e eventos com JavaScript.
 
+# 🏆📝 Avaliação
+A avaliação será realizada nas seguintes categorias:
+
+🛠️ Avaliação técnica: uso correto das tecnologias 
+
+🤗 Avaliação Comportamental: como as Equipes trabalham
+
+🎇 Avaliação Criativa: Uso de cristividade (imagens, vídeos e outros recursos)
+
+🙋‍♂🙋‍♀‍‍ Avaliação dos Pares: Os pares são os colegas de vocês que na sexta votaram no projeto mais interessante (40% da nota).
+
 🔗 Vamos começar a construir cada parte separadamente e detalhadamente para garantir um aprendizado completo!
 
 ✨ **Divirta-se criando!** 😊
