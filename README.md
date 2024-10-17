@@ -1,13 +1,18 @@
 # 🚀 Projeto Talentinho em Ação
 
-Vamos criar um projeto chamado **"Talentinho em Ação"**, com três telas interativas, para aplicar conceitos fundamentais de HTML e CSS. Esse projeto vai envolver navegação entre telas, manipulação e captura de eventos do usuário.
+Vamos criar um projeto chamado **"Talentinho em Ação"**, com três telas interativas, para aplicar conceitos fundamentais de HTML, CSS e JavaScript. Esse projeto vai envolver navegação entre telas, manipulação e captura de eventos do usuário.
 
 # Orientações:
 1) Escolha um representante da Equipe para sortear o tema
+
 2) Faça uma busca pelo conteúdo do tema
-1) Divida sua equipe em:
+   
+3) Divida sua equipe em:
+   
    🧑🧑‍💻 : Duas pessoas responsáveis pelo código HTML
+   
    🧑🧑‍💻 : Duas pessoas responsáveis pelo código CSS
+   
    🧑🧑‍💻 : Duas pessoas responsáveis pelo código JavaScript
    
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️ ATEÇÃO ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
