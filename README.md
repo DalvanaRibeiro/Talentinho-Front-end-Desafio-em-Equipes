@@ -72,7 +72,8 @@ A avaliação será realizada nas seguintes categorias:
 
 🔗 Vamos começar a construir cada parte separadamente e detalhadamente para garantir um aprendizado completo!
 
-✨ **Divirta-se criando!** 😊
+# 🆘 Recursos 
+✨ ** Vocês podem usar os recursos estudados disponíveis em : https://github.com/DalvanaRibeiro/Recursos-Talentinhos ** 😊
 
 Com carinho,  
 **Professora Dalvana**
